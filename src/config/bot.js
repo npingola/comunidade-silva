@@ -196,7 +196,7 @@ export const botConfig = {
   // =========================
   // Add shop defaults here when needed.
   shop: {
-
+loja:celestial,moedas
   },
 
   // =========================
