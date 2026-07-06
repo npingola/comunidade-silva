@@ -23,7 +23,7 @@ export const botConfig = {
     // 5 = Competing
     activities: [
       {
-        // Text users will see (example: "feito por IA /help | Titan Bot").
+        // Text users will see (example: "comunidade silva a melhor comunidade /help | Titan Bot").
         name: "feito por ferreira",
         // Activity type number (0 = Playing).
         type: 0,
